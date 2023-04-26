@@ -22,17 +22,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Setup and Mobile First Project] <a name="about-project"></a>
-
 > This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
 
-**[HELLO MICROVERSE PROJECT]** is a responsive website that tests my web development skills. 
+**HELLO MICROVERSE PROJECT** is a responsive website that tests my web development skills. 
 
 ## 🛠 Built With <a name="HTML and CSS"></a>
 
-### Tech Stack <a name="Front end"></a>
-
-> This is a Mobile First website.
+ This is a Mobile First website.
 
 <details>
   <summary>Client</summary>
@@ -44,25 +40,14 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Channge the content color]**
+- **Channge the content color**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://abednegokibitok.github.io/set-up-and-mobile-first/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -110,8 +95,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/AbednegoKibitok)
@@ -153,18 +136,6 @@ If you like this project, get back to me, we can add some more features to it.
 I would like to thank Microverse community for their support especially in their code review process.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
