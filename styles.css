@@ -1,3 +1,61 @@
-h1 {
-  color: #0ff;
+@media screen and (max-width: 768px) {
+  .headline {
+    height: 100vh;
+    margin: 0;
+    background-image: url(icons/header-shapes\ mobile.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  header {
+    top: 44px;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .myLogo {
+    color: #6070ff;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 24px;
+    line-height: 20px;
+    text-decoration: none;
+  }
+
+  .heading {
+    color: #172b4d;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+  }
+
+  main {
+    color: #344563;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .connect {
+    color: #7f8cff;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .social {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    list-style-type: none;
+  }
 }
