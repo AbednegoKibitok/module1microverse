@@ -1,18 +1,31 @@
 @media screen and (max-width: 768px) {
-  .headline {
-    height: 100vh;
+  body {
+    background: #e5e5e5;
+    padding: 0;
     margin: 0;
+  }
+
+  .headline {
     background-image: url(icons/header-shapes\ mobile.png);
     background-size: cover;
     background-position: center;
   }
 
+  .main {
+    background-color: #fff;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0 0 0 15%;
+  }
+
+  nav {
+    padding-right: 32px;
+  }
+
   header {
-    top: 44px;
-    bottom: 0;
+    padding-top: 16px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
   }
 
   .myLogo {
@@ -23,6 +36,7 @@
     font-size: 24px;
     line-height: 20px;
     text-decoration: none;
+    padding-left: 32px;
   }
 
   .heading {
@@ -32,6 +46,7 @@
     font-weight: 700;
     font-size: 40px;
     line-height: 52px;
+    padding-left: 32px;
   }
 
   main {
@@ -41,6 +56,8 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+    padding-left: 32px;
+    padding-right: 34px;
   }
 
   .connect {
@@ -50,11 +67,13 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+    padding-left: 34px;
   }
 
   .social {
     display: flex;
     align-items: center;
+    justify-content: flex-start;
     gap: 16px;
     list-style-type: none;
   }
