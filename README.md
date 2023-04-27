@@ -22,7 +22,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-> This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
+ This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
 
 **HELLO MICROVERSE PROJECT** is a responsive website that tests my web development skills. 
 
@@ -45,19 +45,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
 
 In order to run this project you need:
 
 - A browser that supports html5 and css3
-
-### Setup
 
 Clone this repository to your desired folder:
 
@@ -66,32 +58,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/AbednegoKibitok/set-up-and-mobile-first.git
 ```
 --->
-
-### Install
-
-Install this project with:
-
-- Clone the code into your machine and run test in an editor of your choice.
-
-### Usage
-
-To run the project, execute the following command:
-
-- http://127.0.0.1:5500/index.html
-
-### Run tests
-
-To run tests, run the following command:
-
-- http://127.0.0.1:5500/index.html
-
-### Deployment
-
-You can deploy this project using:
-
-- Deploy it on a browser of your choice.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -123,15 +89,11 @@ Feel free to check the [issues page](https://github.com/AbednegoKibitok/set-up-a
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, get back to me, we can add some more features to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for their support especially in their code review process.
 
