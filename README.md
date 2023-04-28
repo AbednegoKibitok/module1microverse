@@ -22,13 +22,15 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
- This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
+<a name="about-project"></a>
 
-**HELLO MICROVERSE PROJECT** is a responsive website that tests my web development skills. 
+<p>This is my first Microverse Project. It contains some things I am capable of doing as a software developer.</p>
 
-## 🛠 Built With <a name="HTML and CSS"></a>
+**[Finish Mobile Version]** is a website that tests my web development skills.
 
- This is a Mobile First website.
+<a name="HTML and CSS"></a>
+
+<a name="Front end"></a>
 
 <details>
   <summary>Client</summary>
@@ -40,16 +42,29 @@
   </ul>
 </details>
 
+<a name="key-features"></a>
 
-- **Channge the content color**
+- **[Channge the content color]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="live-demo"></a>
+
+- [Live Demo Link](https://AbednegoKibitok/github.io/set-up-and-mobile-first)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<a name="getting-started"></a>
+
 To get a local copy up and running, follow these steps.
+
+Prerequisites
 
 In order to run this project you need:
 
 - A browser that supports html5 and css3
+
+Setup
 
 Clone this repository to your desired folder:
 
@@ -59,7 +74,9 @@ Clone this repository to your desired folder:
 ```
 --->
 
-## 👥 Authors <a name="authors"></a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<a name="authors"></a>
 
 👤 **Author1**
 
@@ -69,9 +86,7 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
+<a name="future-features"></a>
 
 - [ ] **[Contact form]**
 - [ ] **[Desktop version of the website]**
@@ -79,7 +94,7 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🤝 Contributing <a name="contributing"></a>
+<a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -87,21 +102,19 @@ Feel free to check the [issues page](https://github.com/AbednegoKibitok/set-up-a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐️ Show your support <a name="support"></a>
+<a name="support"></a>
 
 If you like this project, get back to me, we can add some more features to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+<a name="acknowledgements"></a>
 
 I would like to thank Microverse community for their support especially in their code review process.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
+<a name="license"></a>
 
 This project is [MIT](https://github.com/AbednegoKibitok/My-Portfolio-Project/blob/main/LICENSE.md) licensed.
 
