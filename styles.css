@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 320px) {
   #headline {
     background-color: #fff;
     border-radius: 0 0 0 100px / 100px;
@@ -189,7 +189,7 @@ body {
     background-color: #fff;
     border-radius: 0 100px 0 0 / 100px;
     padding-top: 8%;
-    padding-left: 4%;
+    padding-left: 5%;
     padding-right: 4%;
     margin-top: 16%;
   }
@@ -244,10 +244,25 @@ body {
   }
 
   .seeproject:active {
-    box-shadow: 2px 2px 5px #6070ff;
+    box-shadow: 2px 2px 5px #2230d2;
   }
 
   .separa {
     width: 100%;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  #about {
+    margin: 0;
+    padding: 0;
+  }
+
+  .skillss {
+    display: flex;
+    align-items: center;
+    gap: 60vw;
   }
 }
