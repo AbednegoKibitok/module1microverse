@@ -46,12 +46,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Not applicable
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -85,10 +79,6 @@ To run the project, execute the following command:
 - http://127.0.0.1:5500/index.html
 
 ### Run tests
-
-Not applicable
-
-### Deployment
 
 Not applicable
 
