@@ -189,15 +189,11 @@ body {
     background-color: #fff;
     border-radius: 0 100px 0 0 / 100px;
     padding-top: 8%;
-    padding-left: 5%;
     padding-right: 4%;
     margin-top: 16%;
   }
 
   .languages {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -245,24 +241,27 @@ body {
 
   .seeproject:active {
     box-shadow: 2px 2px 5px #2230d2;
+    background-color: #2230d2;
   }
 
   .separa {
-    width: 100%;
+    width: 95%;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   ul {
     list-style-type: none;
+    padding-left: 0;
   }
 
-  #about {
-    margin: 0;
-    padding: 0;
+  .get {
+    padding-left: 24px;
   }
 
   .skillss {
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    gap: 60vw;
   }
 }
