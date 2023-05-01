@@ -22,15 +22,17 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<a name="about-project"></a>
+# 📖 [Setup and Mobile First Project] <a name="about-project"></a>
 
-<p>This is my first Microverse Project. It contains some things I am capable of doing as a software developer.</p>
+> This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
 
-**[Finish Mobile Version]** is a website that tests my web development skills.
+**[HELLO MICROVERSE PROJECT]** is a responsive website that tests my web development skills. 
 
-<a name="HTML and CSS"></a>
+## 🛠 Built With <a name="HTML and CSS"></a>
 
-<a name="Front end"></a>
+### Tech Stack <a name="Front end"></a>
+
+> This is a Mobile First website.
 
 <details>
   <summary>Client</summary>
@@ -42,41 +44,65 @@
   </ul>
 </details>
 
-<a name="key-features"></a>
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
 
 - **[Channge the content color]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="live-demo"></a>
+## 💻 Getting Started <a name="getting-started"></a>
 
-- [Live Demo Link](https://AbednegoKibitok/github.io/set-up-and-mobile-first)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<a name="getting-started"></a>
+> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
 
 In order to run this project you need:
 
 - A browser that supports html5 and css3
 
-Setup
+### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/AbednegoKibitok/module1microverse.git
+  git clone https://github.com/AbednegoKibitok/set-up-and-mobile-first.git
 ```
 --->
 
+### Install
+
+Install this project with:
+
+- Clone the code into your machine and run test in an editor of your choice.
+
+### Usage
+
+To run the project, execute the following command:
+
+- http://127.0.0.1:5500/index.html
+
+### Run tests
+
+To run tests, run the following command:
+
+- http://127.0.0.1:5500/index.html
+
+### Deployment
+
+You can deploy this project using:
+
+- Deploy it on a browser of your choice.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="authors"></a>
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -86,7 +112,9 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="future-features"></a>
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Contact form]**
 - [ ] **[Desktop version of the website]**
@@ -94,7 +122,7 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -102,19 +130,23 @@ Feel free to check the [issues page](https://github.com/AbednegoKibitok/set-up-a
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
 
 If you like this project, get back to me, we can add some more features to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for their support especially in their code review process.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a name="license"></a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/AbednegoKibitok/My-Portfolio-Project/blob/main/LICENSE.md) licensed.
 
