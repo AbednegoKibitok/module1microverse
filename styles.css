@@ -48,6 +48,7 @@ body {
     font-size: 40px;
     line-height: 52px;
     padding-left: 24px;
+    margin-bottom: 0;
   }
 
   .main {
@@ -59,6 +60,7 @@ body {
     line-height: 24px;
     padding-left: 24px;
     padding-right: 24px;
+    margin-top: 0;
   }
 
   .connect {
@@ -76,8 +78,7 @@ body {
     align-items: center;
     gap: 16px;
     list-style-type: none;
-    padding-left: 8px;
-    padding-left: 24px;
+    padding-left: 32px;
   }
 
   .works {
@@ -226,6 +227,7 @@ body {
     margin: 16px;
     gap: 16px;
     padding: 12px;
+    padding-right: 18px;
   }
 
   .frontend li:hover {
@@ -263,5 +265,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-right: 36px;
+  }
+
+  #about {
+    padding-left: 16px;
   }
 }
