@@ -26,8 +26,6 @@
 
 > This is my first Microverse Project. It contains some things I am capable of doing as a software developer.
 
-**[HELLO MICROVERSE PROJECT]** is a responsive website that tests my web development skills. 
-
 ## 🛠 Built With <a name="HTML and CSS"></a>
 
 ### Tech Stack <a name="Front end"></a>
@@ -44,17 +42,17 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
 - **[Channge the content color]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-> Describe how a new developer could make use of your project.
+Not applicable
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -88,21 +86,15 @@ To run the project, execute the following command:
 
 ### Run tests
 
-To run tests, run the following command:
-
-- http://127.0.0.1:5500/index.html
+Not applicable
 
 ### Deployment
 
-You can deploy this project using:
-
-- Deploy it on a browser of your choice.
+Not applicable
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -113,8 +105,6 @@ You can deploy this project using:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Contact form]**
 - [ ] **[Desktop version of the website]**
@@ -132,15 +122,11 @@ Feel free to check the [issues page](https://github.com/AbednegoKibitok/set-up-a
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, get back to me, we can add some more features to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for their support especially in their code review process.
 
