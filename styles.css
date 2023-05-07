@@ -679,32 +679,21 @@ header {
   }
 
   .menu-items {
+    position: absolute;
     list-style-type: none;
-    position: fixed;
-    background-color: #6070ff;
-    top: 0;
-    left: 0;
-    display: none;
-    flex-direction: column;
-    height: 100%;
-    width: 100%;
-    padding: 100px 50px;
-    z-index: 10;
-  }
-
-  .menu-items li {
-    padding: 20px 15px;
-  }
-
-  .menu-items li a {
-    text-decoration: none;
-    color: #fff;
-    z-index: 500 !important;
-    font-family: "Poppins", sans-serif;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
     line-height: 44px;
+    align-items: center;
+    padding: 32vw;
+    padding-top: 18px;
+  }
+
+  .menu-item {
+    text-decoration: none;
+    color: #fff;
   }
 
   .myLogo {
@@ -716,13 +705,21 @@ header {
     line-height: 20px;
   }
 
-  .close {
+  .menu-iteem {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .menu-itemss {
+    list-style-type: none;
+  }
+
+  .menu {
     display: none;
-    z-index: 50;
-    position: fixed;
-    top: 50px;
-    right: 40px;
-    font-size: 35px;
-    color: black;
   }
 }
