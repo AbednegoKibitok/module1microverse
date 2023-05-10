@@ -512,8 +512,6 @@ header {
     font-size: 40px;
     line-height: 52px;
     margin-top: 6vh;
-    margin-left: 8vw;
-    margin-right: 8vw;
   }
 
   .main {
@@ -524,8 +522,6 @@ header {
     font-size: 16px;
     line-height: 24px;
     margin-top: 4vh;
-    margin-left: 8vw;
-    margin-right: 8vw;
   }
 
   .connect {
@@ -536,8 +532,6 @@ header {
     font-size: 16px;
     line-height: 24px;
     margin-top: 4vh;
-    margin-left: 8vw;
-    margin-right: 8vw;
   }
 
   .social {
@@ -547,8 +541,6 @@ header {
     list-style-type: none;
     padding-left: 8px;
     margin-top: 4vh;
-    margin-left: 8vw;
-    margin-right: 8vw;
   }
 
   .card1 {
@@ -662,5 +654,10 @@ header {
     border-radius: 10px;
     margin-left: 30vw;
     bottom: 8px;
+  }
+
+  .separa {
+    width: 95vw;
+    padding-left: 5vw;
   }
 }
