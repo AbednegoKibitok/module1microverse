@@ -239,6 +239,22 @@ header {
     background-size: cover;
   }
 
+  #headlin {
+    animation-duration: 2s;
+    animation-name: margin;
+    animation-direction: normal;
+  }
+
+  @keyframes margin {
+    from {
+      margin: 30%;
+    }
+
+    to {
+      margin: 0;
+    }
+  }
+
   #main {
     margin-left: 15vw;
     margin-right: 15vw;
