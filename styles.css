@@ -506,6 +506,14 @@ header {
     display: none;
   }
 
+  nav {
+    padding-right: 4vw;
+  }
+
+  .myLogo {
+    padding-left: 4vw;
+  }
+
   #fb {
     display: none;
   }
