@@ -676,4 +676,9 @@ header {
     width: 95vw;
     padding-left: 5vw;
   }
+
+  #headlin {
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
 }
