@@ -13,34 +13,39 @@
         <header>
             <span ><a class="myLogo" href="#">Abedy</a></span>
             <nav>
-                <a href="#">
+                <a id="navbutton" href="#">
                     <img src="icons/Union.png" alt="Union.png">
+                </a>
+                <a id="closebtn" href="#">
+                    <img src="icons/x.png" alt="Union.png">
                 </a>
             </nav>
             <ul class="navlinks">
-                <li><a href="#">Portfolio</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a class="navlinks1" href="#headline">Portfolio</a></li>
+                <li><a class="navlinks2" href="#workss">About</a></li>
+                <li><a class="navlinks3" href="#contactform">Contact</a></li>
             </ul>
         </header>  
         <section class="headline" id="headlin">
             <h1 class="heading" id="heading">I’m Abednego<br> Glad to see<br> you!</h1>
-            <article class="main" id="main">
-                <p>I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
-            </article>
-            <h2 class="connect" id="connect">LET'S CONNECT</h2>
-            <div>
-                <ul class="social" id="social">
-                    <li><a href="#"><img src="icons/Vector.png" alt="twitter_icon"></a></li>
-                    <li><a href="#"><img src="icons/Linkedin icon.png" alt="Linkedin_icon"></a></li>
-                    <li><a href="#"><img src="icons/Vector (1).png" alt="Medium_icon"></a></li>
-                    <li><a href="#"><img src="icons/Vector (2).png" alt="Github_icon"></a></li>
-                    <li><a href="#"><img src="icons/Vector (3).png" alt="Chill_icon"></a></li>
-                </ul>
-            </div>    
+            <div class="scti">
+                <article class="main" id="main">
+                    <p>I’m a software developer! I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hestiate to contact me.</p>
+                </article>
+                <h2 class="connect" id="connect">LET'S CONNECT</h2>
+                <div>
+                    <ul class="social" id="social">
+                        <li><a href="#"><img src="icons/Vector.png" alt="twitter_icon"></a></li>
+                        <li><a href="#"><img src="icons/Linkedin icon.png" alt="Linkedin_icon"></a></li>
+                        <li><a href="#"><img src="icons/Vector (1).png" alt="Medium_icon"></a></li>
+                        <li><a href="#"><img src="icons/Vector (2).png" alt="Github_icon"></a></li>
+                        <li><a href="#"><img src="icons/Vector (3).png" alt="Chill_icon"></a></li>
+                    </ul>
+                </div>    
+            </div>
         </section>  
     </div>
-    <section class="works">
+    <section class="works" id="workss">
         <div class="card1" id="card1">
             <img class="imge" src="icons/Snapshoot Portfolio-.png" alt="Snapshoot.png">
             <div class="hero1">
@@ -262,7 +267,7 @@
                 <img class="separa" src="icons/Separator Bottom.png" alt="Separator">
             </div>
         </section> 
-        <section class="contactform">
+        <section class="contactform" id="contactform">
             <article class="contactme" id="contactme">
                 <h2 class="cme">Contact me</h2>
                 <p class="pme">If you have an application you are interested in developing, a feature that you need built or a project that needs coding. I’d love to help with it </p>
@@ -276,5 +281,6 @@
             <div class="end"></div>
         </section> 
     </div>
+    <script src="script.js"></script>
 </body>
 </html>

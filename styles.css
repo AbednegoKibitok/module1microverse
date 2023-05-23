@@ -519,7 +519,10 @@ header {
   }
 
   .navlinks {
+    position: absolute;
     display: none;
+    list-style-type: none;
+    margin-top: 30vh;
   }
 
   .headline {
@@ -688,5 +691,16 @@ header {
   #headlin {
     padding-left: 4vw;
     padding-right: 4vw;
+  }
+
+  .navlinks li a {
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #fff;
+    padding: 16px;
+    text-decoration: none;
   }
 }
