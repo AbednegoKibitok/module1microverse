@@ -28,7 +28,7 @@
 
 **[HELLO MICROVERSE PROJECT]** is a responsive website that tests my web development skills. 
 
-## 🛠 Built With <a name="HTML and CSS"></a>
+## 🛠 Built With <a name="HTML, CSS and JavaScript"></a>
 
 ### Tech Stack <a name="Front end"></a>
 
